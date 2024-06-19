@@ -1,7 +1,8 @@
+import { Typography } from "@mui/material"
 
 const App = () => {
   return (
-    <div>E-Commerce Frontend</div>
+    <Typography variant="h2">E-Commerce Frontend</Typography>
   )
 }
 
